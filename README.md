@@ -20,6 +20,12 @@ Link do Figma (Protótipo/Wireframes)
 
 https://www.figma.com/design/MTO1WO5SY3sPWOUppK5mL4/MVP-StockWise?node-id=0-1&t=L5REjKaqLUfmfjqq-1
 
+-----------------------------------------
+Link do Vídeo de Apresentação
+-----------------------------------------
+
+https://youtu.be/zaJJDHcmn6U
+
 
 Autor:
 Eduardo Carrer

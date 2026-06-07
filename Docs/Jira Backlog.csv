@@ -1,0 +1,208 @@
+Resumo,Chave da item,ID da item,Tipo de item,Status,Chave do projeto,Nome do projeto,Tipo de projeto,Líder do projeto,ID do líder do projeto,Descrição do projeto,Prioridade,Resolução,Responsável,ID do responsável,Relator,ID do relator,Criador,ID do criador,Criado,Atualizado(a),Última visualização,Resolvido,Data limite,Votos,Descrição,Ambiente,Seguidores,ID dos seguidores,Estimativa original,Estimativa de trabalho restante,Tempo gasto,Razão Trabalhada,Σ da Estimativa Original,Σ Estimativa de trabalho restante,Σ de Tempo Gasto,Nível de Segurança,Campo personalizado (Data de início),Campo personalizado (Issue color),Campo personalizado (Projeto),Campo personalizado (Rank),Campo personalizado (Team),Campo personalizado (Vulnerability),Campo personalizado (development),Categoria do status,Categoria do status alterada,Pai,Chave pai,Parent summary
+User Management,KAN-1,10000,Epic,Tarefas pendentes,KAN,MVP-EngenhariaSoftare,software,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,Your first project,Medium,,,,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,01/jun/26 7:42 PM,01/jun/26 8:04 PM,01/jun/26 8:04 PM,,,0,"This epic covers all functionalities related to user authentication and account management. It enables investors to create accounts, securely access the platform, and manage their personal information.",,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,,,,,,,,,,,,0|hzzzzz:,,,,Itens Pendentes,01/jun/26 7:42 PM,,,
+User Registration,KAN-2,10001,Tarefa,Tarefas pendentes,KAN,MVP-EngenhariaSoftare,software,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,Your first project,Medium,,,,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,01/jun/26 7:43 PM,01/jun/26 7:58 PM,01/jun/26 8:52 PM,,,0,"User Story
+
+As a new investor,
+I want to create an account,
+So that I can access the StockWise platform.
+
+Story Points: 3
+
+Priority: High
+
+Acceptance Criteria:
+
+* User can enter name, email and password.
+* Email must be unique.
+* Password must contain at least 8 characters.
+* Account is created successfully.
+* Success message is displayed.",,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,,,,,,,,,,,,0|i00007:,,,,Itens Pendentes,01/jun/26 7:43 PM,10000,KAN-1,User Management
+Stock Discovery,KAN-4,10003,Epic,Tarefas pendentes,KAN,MVP-EngenhariaSoftare,software,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,Your first project,Medium,,,,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,01/jun/26 7:44 PM,01/jun/26 8:04 PM,01/jun/26 8:04 PM,,,0,"This epic enables investors to search and discover publicly traded companies, providing access to relevant company information and financial data.",,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,,,,,,,,,,,,0|i0000b:,,,,Itens Pendentes,01/jun/26 7:44 PM,,,
+User Login,KAN-3,10002,Tarefa,Tarefas pendentes,KAN,MVP-EngenhariaSoftare,software,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,Your first project,Medium,,,,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,01/jun/26 7:43 PM,01/jun/26 8:04 PM,01/jun/26 8:04 PM,,,0,"User Story
+
+As a registered investor,
+I want to log into the platform,
+So that I can access my personalized content.
+
+Story Points: 2
+
+Priority: High
+
+Acceptance Criteria:
+
+* User can log in using email and password.
+* Invalid credentials display an error message.
+* Successful login redirects the user to the home page.",,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,,,,,,,,,,,,0|i0000f:,,,,Itens Pendentes,01/jun/26 7:43 PM,10000,KAN-1,User Management
+Company Information Page,KAN-6,10005,Tarefa,Tarefas pendentes,KAN,MVP-EngenhariaSoftare,software,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,Your first project,Medium,,,,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,01/jun/26 7:44 PM,01/jun/26 8:05 PM,01/jun/26 8:05 PM,,,0,"User Story
+
+As an investor,
+I want to view company information,
+So that I can better understand the business before investing.
+
+Story Points: 5
+
+Priority: High
+
+Acceptance Criteria:
+
+* Company name is displayed.
+* Sector and industry information are displayed.
+* Company description is displayed.
+* Information is updated when another company is selected.",,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,,,,,,,,,,,,0|i0000j:,,,,Itens Pendentes,01/jun/26 7:44 PM,10003,KAN-4,Stock Discovery
+Stock Analysis,KAN-7,10006,Epic,Tarefas pendentes,KAN,MVP-EngenhariaSoftare,software,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,Your first project,Medium,,,,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,01/jun/26 7:44 PM,01/jun/26 8:05 PM,01/jun/26 8:05 PM,,,0,This epic provides investors with financial indicators and automated analysis tools that support investment decision-making.,,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,,,,,,,,,,,,0|i0000l:,,,,Itens Pendentes,01/jun/26 7:44 PM,,,
+Stock Search,KAN-5,10004,Tarefa,Tarefas pendentes,KAN,MVP-EngenhariaSoftare,software,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,Your first project,Medium,,,,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,01/jun/26 7:44 PM,01/jun/26 8:04 PM,01/jun/26 8:04 PM,,,0,"User Story
+
+As an investor,
+I want to search for a stock by ticker symbol,
+So that I can quickly access company information.
+
+Story Points: 5
+
+Priority: High
+
+Acceptance Criteria:
+
+* User can search using ticker symbols.
+* Matching companies are displayed.
+* Invalid searches return a user-friendly message.",,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,,,,,,,,,,,,0|i0000n:,,,,Itens Pendentes,01/jun/26 7:44 PM,10003,KAN-4,Stock Discovery
+Financial Health Score,KAN-9,10008,Tarefa,Tarefas pendentes,KAN,MVP-EngenhariaSoftare,software,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,Your first project,Medium,,,,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,01/jun/26 7:44 PM,01/jun/26 8:05 PM,01/jun/26 8:05 PM,,,0,"User Story
+
+As an investor,
+I want to receive a financial health score,
+So that I can quickly assess a company's quality.
+
+Story Points: 13
+
+Priority: High
+
+Acceptance Criteria:
+
+* Score is automatically calculated.
+* Score is displayed on the company page.
+* Score methodology is documented.
+* Users can understand the meaning of the score.",,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,,,,,,,,,,,,0|i0000r:,,,,Itens Pendentes,01/jun/26 7:44 PM,10006,KAN-7,Stock Analysis
+Financial Education,KAN-10,10009,Epic,Tarefas pendentes,KAN,MVP-EngenhariaSoftare,software,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,Your first project,Medium,,,,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,01/jun/26 7:45 PM,01/jun/26 8:05 PM,01/jun/26 8:05 PM,,,0,This epic provides educational content that helps beginner investors understand financial concepts and improve investment knowledge.,,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,,,,,,,,,,,,0|i0000t:,,,,Itens Pendentes,01/jun/26 7:45 PM,,,
+Financial Indicators Dashboard,KAN-8,10007,Tarefa,Tarefas pendentes,KAN,MVP-EngenhariaSoftare,software,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,Your first project,Medium,,,,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,01/jun/26 7:44 PM,01/jun/26 8:05 PM,01/jun/26 8:05 PM,,,0,"User Story
+
+As an investor,
+I want to view key financial indicators,
+So that I can evaluate a company's financial health.
+
+Story Points: 8
+
+Priority: High
+
+Acceptance Criteria:
+
+* ROE is displayed.
+* P/E Ratio is displayed.
+* Dividend Yield is displayed.
+* Debt Ratio is displayed.
+* Indicators are updated for the selected company.",,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,,,,,,,,,,,,0|i0000v:,,,,Itens Pendentes,01/jun/26 7:44 PM,10006,KAN-7,Stock Analysis
+Indicator Explanation Tooltips,KAN-13,10012,Tarefa,Tarefas pendentes,KAN,MVP-EngenhariaSoftare,software,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,Your first project,Medium,,,,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,01/jun/26 7:45 PM,01/jun/26 8:06 PM,01/jun/26 8:06 PM,,,0,"User Story
+
+As a beginner investor,
+I want explanations for financial indicators,
+So that I can understand their meaning.
+
+Story Points: 2
+
+Priority: Medium
+
+Acceptance Criteria:
+
+* Tooltips are available for key indicators.
+* Explanations are clear and concise.
+* Tooltip appears when the user hovers or clicks the indicator.",,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,,,,,,,,,,,,0|i0000x:,,,,Itens Pendentes,01/jun/26 7:45 PM,10009,KAN-10,Financial Education
+Learning Articles,KAN-12,10011,Tarefa,Tarefas pendentes,KAN,MVP-EngenhariaSoftare,software,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,Your first project,Medium,,,,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,01/jun/26 7:45 PM,01/jun/26 8:06 PM,01/jun/26 8:06 PM,,,0,"User Story
+
+As a beginner investor,
+I want to read educational articles,
+So that I can improve my financial knowledge.
+
+Story Points: 3
+
+Priority: Medium
+
+Acceptance Criteria:
+
+* Articles are displayed correctly.
+* Articles are categorized by topic.
+* Users can open and read articles.",,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,,,,,,,,,,,,0|i0000z:,,,,Itens Pendentes,01/jun/26 7:45 PM,10009,KAN-10,Financial Education
+User Engagement,KAN-14,10013,Epic,Tarefas pendentes,KAN,MVP-EngenhariaSoftare,software,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,Your first project,Medium,,,,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,01/jun/26 7:45 PM,01/jun/26 8:06 PM,01/jun/26 8:06 PM,,,0,This epic improves user retention by providing monitoring and tracking features for stocks and market performance.,,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,,,,,,,,,,,,0|i00011:,,,,Itens Pendentes,01/jun/26 7:45 PM,,,
+Financial Education Center,KAN-11,10010,Tarefa,Tarefas pendentes,KAN,MVP-EngenhariaSoftare,software,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,Your first project,Medium,,,,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,01/jun/26 7:45 PM,01/jun/26 8:05 PM,01/jun/26 8:05 PM,,,0,"User Story
+
+As a beginner investor,
+I want access to educational content,
+So that I can learn about stock market fundamentals.
+
+Story Points: 5
+
+Priority: Medium
+
+Acceptance Criteria:
+
+* Educational content is organized by topic.
+* Users can access learning materials.
+* Navigation is simple and intuitive.",,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,,,,,,,,,,,,0|i00013:,,,,Itens Pendentes,01/jun/26 7:45 PM,10009,KAN-10,Financial Education
+Historical Performance Charts,KAN-16,10015,Tarefa,Tarefas pendentes,KAN,MVP-EngenhariaSoftare,software,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,Your first project,Medium,,,,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,01/jun/26 7:45 PM,01/jun/26 8:06 PM,01/jun/26 8:06 PM,,,0,"User Story
+
+As an investor,
+I want to view historical performance charts,
+So that I can analyze company performance over time.
+
+Story Points: 8
+
+Priority: Medium
+
+Acceptance Criteria:
+
+* Historical data is displayed.
+* User can select different time periods.
+* Charts are displayed correctly.",,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,,,,,,,,,,,,0|i00017:,,,,Itens Pendentes,01/jun/26 7:45 PM,10013,KAN-14,User Engagement
+Advanced Features,KAN-17,10016,Epic,Tarefas pendentes,KAN,MVP-EngenhariaSoftare,software,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,Your first project,Medium,,,,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,01/jun/26 7:45 PM,01/jun/26 8:06 PM,01/jun/26 8:06 PM,,,0,This epic contains advanced analysis features intended for experienced investors and future platform enhancements.,,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,,,,,,,,,,,,0|i00019:,,,,Itens Pendentes,01/jun/26 7:45 PM,,,
+Stock Watchlist,KAN-15,10014,Tarefa,Tarefas pendentes,KAN,MVP-EngenhariaSoftare,software,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,Your first project,Medium,,,,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,01/jun/26 7:45 PM,01/jun/26 8:06 PM,01/jun/26 8:06 PM,,,0,"User Story
+
+As an investor,
+I want to save stocks to a watchlist,
+So that I can monitor them later.
+
+Story Points: 5
+
+Priority: Medium
+
+Acceptance Criteria:
+
+* User can add stocks to the watchlist.
+* User can remove stocks from the watchlist.
+* Watchlist is saved to the user's account.",,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,,,,,,,,,,,,0|i0001b:,,,,Itens Pendentes,01/jun/26 7:45 PM,10013,KAN-14,User Engagement
+PDF Export,KAN-19,10018,Tarefa,Tarefas pendentes,KAN,MVP-EngenhariaSoftare,software,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,Your first project,Medium,,,,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,01/jun/26 7:46 PM,01/jun/26 8:07 PM,01/jun/26 8:07 PM,,,0,"User Story
+
+As an investor,
+I want to export analysis reports to PDF,
+So that I can save and share information.
+
+Story Points: 3
+
+Priority: Low
+
+Acceptance Criteria:
+
+* User can export reports to PDF.
+* PDF contains company information and indicators.
+* Generated PDF is properly formatted.",,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,,,,,,,,,,,,0|i0001f:,,,,Itens Pendentes,01/jun/26 7:46 PM,10016,KAN-17,Advanced Features
+Stock Comparison Tool,KAN-18,10017,Tarefa,Tarefas pendentes,KAN,MVP-EngenhariaSoftare,software,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,Your first project,Medium,,,,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,01/jun/26 7:45 PM,01/jun/26 8:06 PM,01/jun/26 8:07 PM,,,0,"User Story
+
+As an investor,
+I want to compare multiple companies,
+So that I can identify the best investment opportunities.
+
+Story Points: 13
+
+Priority: Low
+
+Acceptance Criteria:
+
+* User can select multiple companies.
+* Financial indicators are displayed side-by-side.
+* Comparison results are clearly presented.",,eduardovcarrer,70121:0d17f9b6-3e03-4de0-a4bd-c09dfa863b25,,,,,,,,,,,,0|i0001j:,,,,Itens Pendentes,01/jun/26 7:45 PM,10016,KAN-17,Advanced Features
